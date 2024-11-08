@@ -1,0 +1,1 @@
+# tarea-de-discord-reconociemiento-de-imagenes
